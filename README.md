@@ -17,3 +17,5 @@ After that, the GMS API Integration extension should work normally.
 Instructions on each function are given within the ngAPIextension.js file, which is inside the .gmez extension.
 
 Note that the integration is incomplete (as of August 17th). The only integrated elements are medals and scoreboards.
+
+Users that wish to modify the extension, may want to download the ngAPIextension.js file directly, in order to modify it, and then later import it to his Game Maker Project.
