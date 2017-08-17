@@ -18,4 +18,4 @@ Instructions on each function are given within the ngAPIextension.js file, which
 
 Note that the integration is incomplete (as of August 17th). The only integrated elements are medals and scoreboards.
 
-Users that wish to modify the extension, may want to download the ngAPIextension.js file directly, in order to modify it, and then later import it to his Game Maker Project.
+Users that wish to modify the extension may want to download the ngAPIextension.js file directly in order to modify it, and then later import it to his Game Maker Project.
